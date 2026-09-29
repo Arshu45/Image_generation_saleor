@@ -1,0 +1,356 @@
+batch_number,position_in_batch,grid_row,grid_col,sku_id,product_title,product_image_file,raw_grid_file,status,timestamp,error
+1,1,1,1,SKU-AP10401,ActiveLife Men's Tops Model-10401 - Teal / S,output_images/products/SKU-AP10401.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,2,1,2,SKU-AP10402,ActiveLife Men's Tops Model-10401 - Teal / M,output_images/products/SKU-AP10402.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,3,1,3,SKU-AP10403,ActiveLife Men's Tops Model-10401 - Teal / L,output_images/products/SKU-AP10403.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,4,1,4,SKU-AP10404,ActiveLife Men's Tops Model-10401 - Teal / XL,output_images/products/SKU-AP10404.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,5,1,5,SKU-AP10405,ActiveLife Men's Tops Model-10401 - Teal / XXL,output_images/products/SKU-AP10405.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,6,2,1,SKU-AP10406,ActiveLife Men's Tops Model-10401 - Mustard / S,output_images/products/SKU-AP10406.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,7,2,2,SKU-AP10407,ActiveLife Men's Tops Model-10401 - Mustard / M,output_images/products/SKU-AP10407.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,8,2,3,SKU-AP10408,ActiveLife Men's Tops Model-10401 - Mustard / L,output_images/products/SKU-AP10408.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,9,2,4,SKU-AP10409,ActiveLife Men's Tops Model-10401 - Mustard / XL,output_images/products/SKU-AP10409.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,10,2,5,SKU-AP10410,ActiveLife Men's Tops Model-10401 - Mustard / XXL,output_images/products/SKU-AP10410.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,11,3,1,SKU-AP10411,ActiveLife Men's Tops Model-10411 - Navy / S,output_images/products/SKU-AP10411.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,12,3,2,SKU-AP10412,ActiveLife Men's Tops Model-10411 - Navy / M,output_images/products/SKU-AP10412.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,13,3,3,SKU-AP10413,ActiveLife Men's Tops Model-10411 - Navy / L,output_images/products/SKU-AP10413.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,14,3,4,SKU-AP10414,ActiveLife Men's Tops Model-10411 - Navy / XL,output_images/products/SKU-AP10414.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+1,15,3,5,SKU-AP10415,ActiveLife Men's Tops Model-10411 - Grey / S,output_images/products/SKU-AP10415.png,output_images/batch_grids/batch_00001_SKU-AP10401_grid.png,success,2026-09-29 19:12:54,
+2,1,1,1,SKU-AP10416,ActiveLife Men's Tops Model-10411 - Grey / M,output_images/products/SKU-AP10416.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,2,1,2,SKU-AP10417,ActiveLife Men's Tops Model-10411 - Grey / L,output_images/products/SKU-AP10417.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,3,1,3,SKU-AP10418,ActiveLife Men's Tops Model-10411 - Grey / XL,output_images/products/SKU-AP10418.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,4,1,4,SKU-AP10419,ActiveLife Men's Tops Model-10411 - Maroon / S,output_images/products/SKU-AP10419.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,5,1,5,SKU-AP10420,ActiveLife Men's Tops Model-10411 - Maroon / M,output_images/products/SKU-AP10420.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,6,2,1,SKU-AP10421,ActiveLife Men's Tops Model-10411 - Maroon / L,output_images/products/SKU-AP10421.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,7,2,2,SKU-AP10422,ActiveLife Men's Tops Model-10411 - Maroon / XL,output_images/products/SKU-AP10422.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,8,2,3,SKU-AP10423,ActiveLife Men's Tops Model-10423 - Black / S,output_images/products/SKU-AP10423.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,9,2,4,SKU-AP10424,ActiveLife Men's Tops Model-10423 - Black / M,output_images/products/SKU-AP10424.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,10,2,5,SKU-AP10425,ActiveLife Men's Tops Model-10423 - Black / L,output_images/products/SKU-AP10425.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,11,3,1,SKU-AP10426,ActiveLife Men's Tops Model-10423 - Black / XL,output_images/products/SKU-AP10426.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,12,3,2,SKU-AP10427,ActiveLife Men's Tops Model-10423 - Black / XXL,output_images/products/SKU-AP10427.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,13,3,3,SKU-AP10428,ActiveLife Men's Tops Model-10423 - Mustard / S,output_images/products/SKU-AP10428.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,14,3,4,SKU-AP10429,ActiveLife Men's Tops Model-10423 - Mustard / M,output_images/products/SKU-AP10429.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+2,15,3,5,SKU-AP10430,ActiveLife Men's Tops Model-10423 - Mustard / L,output_images/products/SKU-AP10430.png,output_images/batch_grids/batch_00002_SKU-AP10416_grid.png,success,2026-09-29 19:19:11,
+3,1,1,1,SKU-AP10431,ActiveLife Men's Tops Model-10423 - Mustard / XL,output_images/products/SKU-AP10431.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,2,1,2,SKU-AP10432,ActiveLife Men's Tops Model-10423 - Mustard / XXL,output_images/products/SKU-AP10432.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,3,1,3,SKU-AP10433,ActiveLife Men's Tops Model-10433 - Grey / S,output_images/products/SKU-AP10433.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,4,1,4,SKU-AP10434,ActiveLife Men's Tops Model-10433 - Grey / M,output_images/products/SKU-AP10434.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,5,1,5,SKU-AP10435,ActiveLife Men's Tops Model-10433 - Grey / L,output_images/products/SKU-AP10435.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,6,2,1,SKU-AP10436,ActiveLife Men's Tops Model-10433 - Grey / XL,output_images/products/SKU-AP10436.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,7,2,2,SKU-AP10437,ActiveLife Men's Tops Model-10433 - Olive / S,output_images/products/SKU-AP10437.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,8,2,3,SKU-AP10438,ActiveLife Men's Tops Model-10433 - Olive / M,output_images/products/SKU-AP10438.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,9,2,4,SKU-AP10439,ActiveLife Men's Tops Model-10433 - Olive / L,output_images/products/SKU-AP10439.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,10,2,5,SKU-AP10440,ActiveLife Men's Tops Model-10433 - Olive / XL,output_images/products/SKU-AP10440.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,11,3,1,SKU-AP10441,ActiveLife Men's Tops Model-10433 - Mustard / S,output_images/products/SKU-AP10441.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,12,3,2,SKU-AP10442,ActiveLife Men's Tops Model-10433 - Mustard / M,output_images/products/SKU-AP10442.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,13,3,3,SKU-AP10443,ActiveLife Men's Tops Model-10433 - Mustard / L,output_images/products/SKU-AP10443.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,14,3,4,SKU-AP10444,ActiveLife Men's Tops Model-10433 - Mustard / XL,output_images/products/SKU-AP10444.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+3,15,3,5,SKU-AP10445,ActiveLife Men's Tops Model-10445 - Black / S,output_images/products/SKU-AP10445.png,output_images/batch_grids/batch_00003_SKU-AP10431_grid.png,success,2026-09-29 19:20:15,
+4,1,1,1,SKU-AP10446,ActiveLife Men's Tops Model-10445 - Black / M,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,2,1,2,SKU-AP10447,ActiveLife Men's Tops Model-10445 - Black / L,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,3,1,3,SKU-AP10448,ActiveLife Men's Tops Model-10445 - Black / XL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,4,1,4,SKU-AP10449,ActiveLife Men's Tops Model-10445 - Black / XXL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,5,1,5,SKU-AP10450,ActiveLife Men's Tops Model-10445 - Teal / S,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,6,2,1,SKU-AP10451,ActiveLife Men's Tops Model-10445 - Teal / M,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,7,2,2,SKU-AP10452,ActiveLife Men's Tops Model-10445 - Teal / L,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,8,2,3,SKU-AP10453,ActiveLife Men's Tops Model-10445 - Teal / XL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,9,2,4,SKU-AP10454,ActiveLife Men's Tops Model-10445 - Teal / XXL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,10,2,5,SKU-AP10455,ActiveLife Men's Tops Model-10455 - Teal / S,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,11,3,1,SKU-AP10456,ActiveLife Men's Tops Model-10455 - Teal / M,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,12,3,2,SKU-AP10457,ActiveLife Men's Tops Model-10455 - Teal / L,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,13,3,3,SKU-AP10458,ActiveLife Men's Tops Model-10455 - Teal / XL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,14,3,4,SKU-AP10459,ActiveLife Men's Tops Model-10455 - Teal / XXL,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+4,15,3,5,SKU-AP10460,ActiveLife Men's Tops Model-10455 - Mustard / S,,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,failed,2026-09-29 19:21:22,Failed generation after retries
+5,1,1,1,SKU-AP10461,ActiveLife Men's Tops Model-10455 - Mustard / M,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,2,1,2,SKU-AP10462,ActiveLife Men's Tops Model-10455 - Mustard / L,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,3,1,3,SKU-AP10463,ActiveLife Men's Tops Model-10455 - Mustard / XL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,4,1,4,SKU-AP10464,ActiveLife Men's Tops Model-10455 - Mustard / XXL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,5,1,5,SKU-AP10465,ActiveLife Men's Tops Model-10465 - Black / S,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,6,2,1,SKU-AP10466,ActiveLife Men's Tops Model-10465 - Black / M,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,7,2,2,SKU-AP10467,ActiveLife Men's Tops Model-10465 - Black / L,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,8,2,3,SKU-AP10468,ActiveLife Men's Tops Model-10465 - Black / XL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,9,2,4,SKU-AP10469,ActiveLife Men's Tops Model-10465 - Black / XXL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,10,2,5,SKU-AP10470,ActiveLife Men's Tops Model-10465 - Teal / S,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,11,3,1,SKU-AP10471,ActiveLife Men's Tops Model-10465 - Teal / M,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,12,3,2,SKU-AP10472,ActiveLife Men's Tops Model-10465 - Teal / L,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,13,3,3,SKU-AP10473,ActiveLife Men's Tops Model-10465 - Teal / XL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,14,3,4,SKU-AP10474,ActiveLife Men's Tops Model-10465 - Teal / XXL,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+5,15,3,5,SKU-AP10475,ActiveLife Men's Tops Model-10475 - White / S,,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,failed,2026-09-29 19:21:42,Failed generation after retries
+6,1,1,1,SKU-AP10476,ActiveLife Men's Tops Model-10475 - White / M,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,2,1,2,SKU-AP10477,ActiveLife Men's Tops Model-10475 - White / L,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,3,1,3,SKU-AP10478,ActiveLife Men's Tops Model-10475 - White / XL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,4,1,4,SKU-AP10479,ActiveLife Men's Tops Model-10475 - White / XXL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,5,1,5,SKU-AP10480,ActiveLife Men's Tops Model-10475 - Mustard / S,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,6,2,1,SKU-AP10481,ActiveLife Men's Tops Model-10475 - Mustard / M,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,7,2,2,SKU-AP10482,ActiveLife Men's Tops Model-10475 - Mustard / L,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,8,2,3,SKU-AP10483,ActiveLife Men's Tops Model-10475 - Mustard / XL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,9,2,4,SKU-AP10484,ActiveLife Men's Tops Model-10475 - Mustard / XXL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,10,2,5,SKU-AP10485,ClassicCo Men's Tops Model-10485 - Black / S,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,11,3,1,SKU-AP10486,ClassicCo Men's Tops Model-10485 - Black / M,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,12,3,2,SKU-AP10487,ClassicCo Men's Tops Model-10485 - Black / L,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,13,3,3,SKU-AP10488,ClassicCo Men's Tops Model-10485 - Black / XL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,14,3,4,SKU-AP10489,ClassicCo Men's Tops Model-10485 - Black / XXL,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+6,15,3,5,SKU-AP10490,ClassicCo Men's Tops Model-10485 - Navy / S,,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,failed,2026-09-29 19:22:03,Failed generation after retries
+7,1,1,1,SKU-AP10491,ClassicCo Men's Tops Model-10485 - Navy / M,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,2,1,2,SKU-AP10492,ClassicCo Men's Tops Model-10485 - Navy / L,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,3,1,3,SKU-AP10493,ClassicCo Men's Tops Model-10485 - Navy / XL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,4,1,4,SKU-AP10494,ClassicCo Men's Tops Model-10485 - Navy / XXL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,5,1,5,SKU-AP10495,ClassicCo Men's Tops Model-10495 - White / M,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,6,2,1,SKU-AP10496,ClassicCo Men's Tops Model-10495 - White / L,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,7,2,2,SKU-AP10497,ClassicCo Men's Tops Model-10495 - White / XL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,8,2,3,SKU-AP10498,ClassicCo Men's Tops Model-10495 - White / XXL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,9,2,4,SKU-AP10499,ClassicCo Men's Tops Model-10495 - Maroon / M,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,10,2,5,SKU-AP10500,ClassicCo Men's Tops Model-10495 - Maroon / L,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,11,3,1,SKU-AP10501,ClassicCo Men's Tops Model-10495 - Maroon / XL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,12,3,2,SKU-AP10502,ClassicCo Men's Tops Model-10495 - Maroon / XXL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,13,3,3,SKU-AP10503,ClassicCo Men's Tops Model-10495 - Mustard / M,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,14,3,4,SKU-AP10504,ClassicCo Men's Tops Model-10495 - Mustard / L,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+7,15,3,5,SKU-AP10505,ClassicCo Men's Tops Model-10495 - Mustard / XL,,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,failed,2026-09-29 19:22:23,Failed generation after retries
+8,1,1,1,SKU-AP10506,ClassicCo Men's Tops Model-10495 - Mustard / XXL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,2,1,2,SKU-AP10507,ClassicCo Men's Tops Model-10507 - White / S,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,3,1,3,SKU-AP10508,ClassicCo Men's Tops Model-10507 - White / M,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,4,1,4,SKU-AP10509,ClassicCo Men's Tops Model-10507 - White / L,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,5,1,5,SKU-AP10510,ClassicCo Men's Tops Model-10507 - White / XL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,6,2,1,SKU-AP10511,ClassicCo Men's Tops Model-10507 - White / XXL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,7,2,2,SKU-AP10512,ClassicCo Men's Tops Model-10507 - Teal / S,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,8,2,3,SKU-AP10513,ClassicCo Men's Tops Model-10507 - Teal / M,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,9,2,4,SKU-AP10514,ClassicCo Men's Tops Model-10507 - Teal / L,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,10,2,5,SKU-AP10515,ClassicCo Men's Tops Model-10507 - Teal / XL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,11,3,1,SKU-AP10516,ClassicCo Men's Tops Model-10507 - Teal / XXL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,12,3,2,SKU-AP10517,ClassicCo Men's Tops Model-10517 - White / S,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,13,3,3,SKU-AP10518,ClassicCo Men's Tops Model-10517 - White / M,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,14,3,4,SKU-AP10519,ClassicCo Men's Tops Model-10517 - White / L,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+8,15,3,5,SKU-AP10520,ClassicCo Men's Tops Model-10517 - White / XL,,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,failed,2026-09-29 19:22:44,Failed generation after retries
+9,1,1,1,SKU-AP10521,ClassicCo Men's Tops Model-10517 - White / XXL,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,2,1,2,SKU-AP10522,ClassicCo Men's Tops Model-10517 - Grey / S,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,3,1,3,SKU-AP10523,ClassicCo Men's Tops Model-10517 - Grey / M,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,4,1,4,SKU-AP10524,ClassicCo Men's Tops Model-10517 - Grey / L,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,5,1,5,SKU-AP10525,ClassicCo Men's Tops Model-10517 - Grey / XL,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,6,2,1,SKU-AP10526,ClassicCo Men's Tops Model-10517 - Grey / XXL,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,7,2,2,SKU-AP10527,ClassicCo Men's Tops Model-10527 - Grey / S,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,8,2,3,SKU-AP10528,ClassicCo Men's Tops Model-10527 - Grey / M,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,9,2,4,SKU-AP10529,ClassicCo Men's Tops Model-10527 - Grey / L,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,10,2,5,SKU-AP10530,ClassicCo Men's Tops Model-10527 - Grey / XL,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,11,3,1,SKU-AP10531,ClassicCo Men's Tops Model-10527 - Teal / S,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,12,3,2,SKU-AP10532,ClassicCo Men's Tops Model-10527 - Teal / M,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,13,3,3,SKU-AP10533,ClassicCo Men's Tops Model-10527 - Teal / L,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,14,3,4,SKU-AP10534,ClassicCo Men's Tops Model-10527 - Teal / XL,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+9,15,3,5,SKU-AP10535,ClassicCo Men's Tops Model-10527 - Mustard / S,,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,failed,2026-09-29 19:23:05,Failed generation after retries
+10,1,1,1,SKU-AP10536,ClassicCo Men's Tops Model-10527 - Mustard / M,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,2,1,2,SKU-AP10537,ClassicCo Men's Tops Model-10527 - Mustard / L,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,3,1,3,SKU-AP10538,ClassicCo Men's Tops Model-10527 - Mustard / XL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,4,1,4,SKU-AP10539,ClassicCo Men's Tops Model-10539 - Grey / M,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,5,1,5,SKU-AP10540,ClassicCo Men's Tops Model-10539 - Grey / L,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,6,2,1,SKU-AP10541,ClassicCo Men's Tops Model-10539 - Grey / XL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,7,2,2,SKU-AP10542,ClassicCo Men's Tops Model-10539 - Grey / XXL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,8,2,3,SKU-AP10543,ClassicCo Men's Tops Model-10539 - Maroon / M,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,9,2,4,SKU-AP10544,ClassicCo Men's Tops Model-10539 - Maroon / L,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,10,2,5,SKU-AP10545,ClassicCo Men's Tops Model-10539 - Maroon / XL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,11,3,1,SKU-AP10546,ClassicCo Men's Tops Model-10539 - Maroon / XXL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,12,3,2,SKU-AP10547,ClassicCo Men's Tops Model-10539 - Mustard / M,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,13,3,3,SKU-AP10548,ClassicCo Men's Tops Model-10539 - Mustard / L,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,14,3,4,SKU-AP10549,ClassicCo Men's Tops Model-10539 - Mustard / XL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+10,15,3,5,SKU-AP10550,ClassicCo Men's Tops Model-10539 - Mustard / XXL,,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,failed,2026-09-29 19:23:25,Failed generation after retries
+11,1,1,1,SKU-AP10551,ClassicCo Men's Tops Model-10551 - Navy / M,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,2,1,2,SKU-AP10552,ClassicCo Men's Tops Model-10551 - Navy / L,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,3,1,3,SKU-AP10553,ClassicCo Men's Tops Model-10551 - Navy / XL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,4,1,4,SKU-AP10554,ClassicCo Men's Tops Model-10551 - Navy / XXL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,5,1,5,SKU-AP10555,ClassicCo Men's Tops Model-10551 - Teal / M,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,6,2,1,SKU-AP10556,ClassicCo Men's Tops Model-10551 - Teal / L,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,7,2,2,SKU-AP10557,ClassicCo Men's Tops Model-10551 - Teal / XL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,8,2,3,SKU-AP10558,ClassicCo Men's Tops Model-10551 - Teal / XXL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,9,2,4,SKU-AP10559,ClassicCo Men's Tops Model-10551 - Mustard / M,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,10,2,5,SKU-AP10560,ClassicCo Men's Tops Model-10551 - Mustard / L,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,11,3,1,SKU-AP10561,ClassicCo Men's Tops Model-10551 - Mustard / XL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,12,3,2,SKU-AP10562,ClassicCo Men's Tops Model-10551 - Mustard / XXL,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,13,3,3,SKU-AP10563,ClassicCo Men's Tops Model-10563 - Black / S,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,14,3,4,SKU-AP10564,ClassicCo Men's Tops Model-10563 - Black / M,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+11,15,3,5,SKU-AP10565,ClassicCo Men's Tops Model-10563 - Black / L,,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,failed,2026-09-29 19:23:46,Failed generation after retries
+12,1,1,1,SKU-AP10566,ClassicCo Men's Tops Model-10563 - Black / XL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,2,1,2,SKU-AP10567,ClassicCo Men's Tops Model-10563 - Black / XXL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,3,1,3,SKU-AP10568,ClassicCo Men's Tops Model-10563 - Teal / S,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,4,1,4,SKU-AP10569,ClassicCo Men's Tops Model-10563 - Teal / M,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,5,1,5,SKU-AP10570,ClassicCo Men's Tops Model-10563 - Teal / L,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,6,2,1,SKU-AP10571,ClassicCo Men's Tops Model-10563 - Teal / XL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,7,2,2,SKU-AP10572,ClassicCo Men's Tops Model-10563 - Teal / XXL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,8,2,3,SKU-AP10573,ClassicCo Men's Tops Model-10573 - Navy / S,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,9,2,4,SKU-AP10574,ClassicCo Men's Tops Model-10573 - Navy / M,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,10,2,5,SKU-AP10575,ClassicCo Men's Tops Model-10573 - Navy / L,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,11,3,1,SKU-AP10576,ClassicCo Men's Tops Model-10573 - Navy / XL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,12,3,2,SKU-AP10577,ClassicCo Men's Tops Model-10573 - Maroon / S,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,13,3,3,SKU-AP10578,ClassicCo Men's Tops Model-10573 - Maroon / M,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,14,3,4,SKU-AP10579,ClassicCo Men's Tops Model-10573 - Maroon / L,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+12,15,3,5,SKU-AP10580,ClassicCo Men's Tops Model-10573 - Maroon / XL,,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,failed,2026-09-29 19:24:35,Failed generation after retries
+13,1,1,1,SKU-AP10581,ClassicCo Men's Tops Model-10573 - Mustard / S,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,2,1,2,SKU-AP10582,ClassicCo Men's Tops Model-10573 - Mustard / M,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,3,1,3,SKU-AP10583,ClassicCo Men's Tops Model-10573 - Mustard / L,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,4,1,4,SKU-AP10584,ClassicCo Men's Tops Model-10573 - Mustard / XL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,5,1,5,SKU-AP10585,ActiveLife Men's Tops Model-10585 - Black / M,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,6,2,1,SKU-AP10586,ActiveLife Men's Tops Model-10585 - Black / L,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,7,2,2,SKU-AP10587,ActiveLife Men's Tops Model-10585 - Black / XL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,8,2,3,SKU-AP10588,ActiveLife Men's Tops Model-10585 - Black / XXL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,9,2,4,SKU-AP10589,ActiveLife Men's Tops Model-10585 - Navy / M,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,10,2,5,SKU-AP10590,ActiveLife Men's Tops Model-10585 - Navy / L,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,11,3,1,SKU-AP10591,ActiveLife Men's Tops Model-10585 - Navy / XL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,12,3,2,SKU-AP10592,ActiveLife Men's Tops Model-10585 - Navy / XXL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,13,3,3,SKU-AP10593,ActiveLife Men's Tops Model-10585 - Grey / M,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,14,3,4,SKU-AP10594,ActiveLife Men's Tops Model-10585 - Grey / L,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+13,15,3,5,SKU-AP10595,ActiveLife Men's Tops Model-10585 - Grey / XL,,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,failed,2026-09-29 19:24:56,Failed generation after retries
+14,1,1,1,SKU-AP10596,ActiveLife Men's Tops Model-10585 - Grey / XXL,,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,failed,2026-09-29 19:25:17,Failed generation after retries
+14,2,1,2,SKU-AP10597,ActiveLife Men's Tops Model-10597 - White / S,,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,failed,2026-09-29 19:25:17,Failed generation after retries
+14,3,1,3,SKU-AP10598,ActiveLife Men's Tops Model-10597 - White / M,,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,failed,2026-09-29 19:25:17,Failed generation after retries
+14,4,1,4,SKU-AP10599,ActiveLife Men's Tops Model-10597 - White / L,,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,failed,2026-09-29 19:25:17,Failed generation after retries
+14,5,1,5,SKU-AP10600,ActiveLife Men's Tops Model-10597 - White / XL,,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,failed,2026-09-29 19:25:17,Failed generation after retries
+4,1,1,1,SKU-AP10446,ActiveLife Men's Tops Model-10445 - Black / M,output_images/products/SKU-AP10446.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,2,1,2,SKU-AP10447,ActiveLife Men's Tops Model-10445 - Black / L,output_images/products/SKU-AP10447.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,3,1,3,SKU-AP10448,ActiveLife Men's Tops Model-10445 - Black / XL,output_images/products/SKU-AP10448.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,4,1,4,SKU-AP10449,ActiveLife Men's Tops Model-10445 - Black / XXL,output_images/products/SKU-AP10449.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,5,1,5,SKU-AP10450,ActiveLife Men's Tops Model-10445 - Teal / S,output_images/products/SKU-AP10450.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,6,2,1,SKU-AP10451,ActiveLife Men's Tops Model-10445 - Teal / M,output_images/products/SKU-AP10451.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,7,2,2,SKU-AP10452,ActiveLife Men's Tops Model-10445 - Teal / L,output_images/products/SKU-AP10452.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,8,2,3,SKU-AP10453,ActiveLife Men's Tops Model-10445 - Teal / XL,output_images/products/SKU-AP10453.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,9,2,4,SKU-AP10454,ActiveLife Men's Tops Model-10445 - Teal / XXL,output_images/products/SKU-AP10454.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,10,2,5,SKU-AP10455,ActiveLife Men's Tops Model-10455 - Teal / S,output_images/products/SKU-AP10455.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,11,3,1,SKU-AP10456,ActiveLife Men's Tops Model-10455 - Teal / M,output_images/products/SKU-AP10456.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,12,3,2,SKU-AP10457,ActiveLife Men's Tops Model-10455 - Teal / L,output_images/products/SKU-AP10457.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,13,3,3,SKU-AP10458,ActiveLife Men's Tops Model-10455 - Teal / XL,output_images/products/SKU-AP10458.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,14,3,4,SKU-AP10459,ActiveLife Men's Tops Model-10455 - Teal / XXL,output_images/products/SKU-AP10459.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+4,15,3,5,SKU-AP10460,ActiveLife Men's Tops Model-10455 - Mustard / S,output_images/products/SKU-AP10460.png,output_images/batch_grids/batch_00004_SKU-AP10446_grid.png,success,2026-09-29 19:47:22,
+5,1,1,1,SKU-AP10461,ActiveLife Men's Tops Model-10455 - Mustard / M,output_images/products/SKU-AP10461.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,2,1,2,SKU-AP10462,ActiveLife Men's Tops Model-10455 - Mustard / L,output_images/products/SKU-AP10462.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,3,1,3,SKU-AP10463,ActiveLife Men's Tops Model-10455 - Mustard / XL,output_images/products/SKU-AP10463.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,4,1,4,SKU-AP10464,ActiveLife Men's Tops Model-10455 - Mustard / XXL,output_images/products/SKU-AP10464.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,5,1,5,SKU-AP10465,ActiveLife Men's Tops Model-10465 - Black / S,output_images/products/SKU-AP10465.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,6,2,1,SKU-AP10466,ActiveLife Men's Tops Model-10465 - Black / M,output_images/products/SKU-AP10466.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,7,2,2,SKU-AP10467,ActiveLife Men's Tops Model-10465 - Black / L,output_images/products/SKU-AP10467.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,8,2,3,SKU-AP10468,ActiveLife Men's Tops Model-10465 - Black / XL,output_images/products/SKU-AP10468.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,9,2,4,SKU-AP10469,ActiveLife Men's Tops Model-10465 - Black / XXL,output_images/products/SKU-AP10469.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,10,2,5,SKU-AP10470,ActiveLife Men's Tops Model-10465 - Teal / S,output_images/products/SKU-AP10470.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,11,3,1,SKU-AP10471,ActiveLife Men's Tops Model-10465 - Teal / M,output_images/products/SKU-AP10471.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,12,3,2,SKU-AP10472,ActiveLife Men's Tops Model-10465 - Teal / L,output_images/products/SKU-AP10472.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,13,3,3,SKU-AP10473,ActiveLife Men's Tops Model-10465 - Teal / XL,output_images/products/SKU-AP10473.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,14,3,4,SKU-AP10474,ActiveLife Men's Tops Model-10465 - Teal / XXL,output_images/products/SKU-AP10474.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+5,15,3,5,SKU-AP10475,ActiveLife Men's Tops Model-10475 - White / S,output_images/products/SKU-AP10475.png,output_images/batch_grids/batch_00005_SKU-AP10461_grid.png,success,2026-09-29 19:48:26,
+6,1,1,1,SKU-AP10476,ActiveLife Men's Tops Model-10475 - White / M,output_images/products/SKU-AP10476.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,2,1,2,SKU-AP10477,ActiveLife Men's Tops Model-10475 - White / L,output_images/products/SKU-AP10477.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,3,1,3,SKU-AP10478,ActiveLife Men's Tops Model-10475 - White / XL,output_images/products/SKU-AP10478.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,4,1,4,SKU-AP10479,ActiveLife Men's Tops Model-10475 - White / XXL,output_images/products/SKU-AP10479.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,5,1,5,SKU-AP10480,ActiveLife Men's Tops Model-10475 - Mustard / S,output_images/products/SKU-AP10480.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,6,2,1,SKU-AP10481,ActiveLife Men's Tops Model-10475 - Mustard / M,output_images/products/SKU-AP10481.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,7,2,2,SKU-AP10482,ActiveLife Men's Tops Model-10475 - Mustard / L,output_images/products/SKU-AP10482.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,8,2,3,SKU-AP10483,ActiveLife Men's Tops Model-10475 - Mustard / XL,output_images/products/SKU-AP10483.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,9,2,4,SKU-AP10484,ActiveLife Men's Tops Model-10475 - Mustard / XXL,output_images/products/SKU-AP10484.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,10,2,5,SKU-AP10485,ClassicCo Men's Tops Model-10485 - Black / S,output_images/products/SKU-AP10485.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,11,3,1,SKU-AP10486,ClassicCo Men's Tops Model-10485 - Black / M,output_images/products/SKU-AP10486.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,12,3,2,SKU-AP10487,ClassicCo Men's Tops Model-10485 - Black / L,output_images/products/SKU-AP10487.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,13,3,3,SKU-AP10488,ClassicCo Men's Tops Model-10485 - Black / XL,output_images/products/SKU-AP10488.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,14,3,4,SKU-AP10489,ClassicCo Men's Tops Model-10485 - Black / XXL,output_images/products/SKU-AP10489.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+6,15,3,5,SKU-AP10490,ClassicCo Men's Tops Model-10485 - Navy / S,output_images/products/SKU-AP10490.png,output_images/batch_grids/batch_00006_SKU-AP10476_grid.png,success,2026-09-29 19:49:35,
+7,1,1,1,SKU-AP10491,ClassicCo Men's Tops Model-10485 - Navy / M,output_images/products/SKU-AP10491.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,2,1,2,SKU-AP10492,ClassicCo Men's Tops Model-10485 - Navy / L,output_images/products/SKU-AP10492.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,3,1,3,SKU-AP10493,ClassicCo Men's Tops Model-10485 - Navy / XL,output_images/products/SKU-AP10493.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,4,1,4,SKU-AP10494,ClassicCo Men's Tops Model-10485 - Navy / XXL,output_images/products/SKU-AP10494.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,5,1,5,SKU-AP10495,ClassicCo Men's Tops Model-10495 - White / M,output_images/products/SKU-AP10495.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,6,2,1,SKU-AP10496,ClassicCo Men's Tops Model-10495 - White / L,output_images/products/SKU-AP10496.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,7,2,2,SKU-AP10497,ClassicCo Men's Tops Model-10495 - White / XL,output_images/products/SKU-AP10497.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,8,2,3,SKU-AP10498,ClassicCo Men's Tops Model-10495 - White / XXL,output_images/products/SKU-AP10498.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,9,2,4,SKU-AP10499,ClassicCo Men's Tops Model-10495 - Maroon / M,output_images/products/SKU-AP10499.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,10,2,5,SKU-AP10500,ClassicCo Men's Tops Model-10495 - Maroon / L,output_images/products/SKU-AP10500.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,11,3,1,SKU-AP10501,ClassicCo Men's Tops Model-10495 - Maroon / XL,output_images/products/SKU-AP10501.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,12,3,2,SKU-AP10502,ClassicCo Men's Tops Model-10495 - Maroon / XXL,output_images/products/SKU-AP10502.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,13,3,3,SKU-AP10503,ClassicCo Men's Tops Model-10495 - Mustard / M,output_images/products/SKU-AP10503.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,14,3,4,SKU-AP10504,ClassicCo Men's Tops Model-10495 - Mustard / L,output_images/products/SKU-AP10504.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+7,15,3,5,SKU-AP10505,ClassicCo Men's Tops Model-10495 - Mustard / XL,output_images/products/SKU-AP10505.png,output_images/batch_grids/batch_00007_SKU-AP10491_grid.png,success,2026-09-29 19:50:38,
+8,1,1,1,SKU-AP10506,ClassicCo Men's Tops Model-10495 - Mustard / XXL,output_images/products/SKU-AP10506.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,2,1,2,SKU-AP10507,ClassicCo Men's Tops Model-10507 - White / S,output_images/products/SKU-AP10507.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,3,1,3,SKU-AP10508,ClassicCo Men's Tops Model-10507 - White / M,output_images/products/SKU-AP10508.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,4,1,4,SKU-AP10509,ClassicCo Men's Tops Model-10507 - White / L,output_images/products/SKU-AP10509.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,5,1,5,SKU-AP10510,ClassicCo Men's Tops Model-10507 - White / XL,output_images/products/SKU-AP10510.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,6,2,1,SKU-AP10511,ClassicCo Men's Tops Model-10507 - White / XXL,output_images/products/SKU-AP10511.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,7,2,2,SKU-AP10512,ClassicCo Men's Tops Model-10507 - Teal / S,output_images/products/SKU-AP10512.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,8,2,3,SKU-AP10513,ClassicCo Men's Tops Model-10507 - Teal / M,output_images/products/SKU-AP10513.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,9,2,4,SKU-AP10514,ClassicCo Men's Tops Model-10507 - Teal / L,output_images/products/SKU-AP10514.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,10,2,5,SKU-AP10515,ClassicCo Men's Tops Model-10507 - Teal / XL,output_images/products/SKU-AP10515.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,11,3,1,SKU-AP10516,ClassicCo Men's Tops Model-10507 - Teal / XXL,output_images/products/SKU-AP10516.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,12,3,2,SKU-AP10517,ClassicCo Men's Tops Model-10517 - White / S,output_images/products/SKU-AP10517.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,13,3,3,SKU-AP10518,ClassicCo Men's Tops Model-10517 - White / M,output_images/products/SKU-AP10518.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,14,3,4,SKU-AP10519,ClassicCo Men's Tops Model-10517 - White / L,output_images/products/SKU-AP10519.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+8,15,3,5,SKU-AP10520,ClassicCo Men's Tops Model-10517 - White / XL,output_images/products/SKU-AP10520.png,output_images/batch_grids/batch_00008_SKU-AP10506_grid.png,success,2026-09-29 19:52:01,
+9,1,1,1,SKU-AP10521,ClassicCo Men's Tops Model-10517 - White / XXL,output_images/products/SKU-AP10521.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,2,1,2,SKU-AP10522,ClassicCo Men's Tops Model-10517 - Grey / S,output_images/products/SKU-AP10522.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,3,1,3,SKU-AP10523,ClassicCo Men's Tops Model-10517 - Grey / M,output_images/products/SKU-AP10523.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,4,1,4,SKU-AP10524,ClassicCo Men's Tops Model-10517 - Grey / L,output_images/products/SKU-AP10524.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,5,1,5,SKU-AP10525,ClassicCo Men's Tops Model-10517 - Grey / XL,output_images/products/SKU-AP10525.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,6,2,1,SKU-AP10526,ClassicCo Men's Tops Model-10517 - Grey / XXL,output_images/products/SKU-AP10526.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,7,2,2,SKU-AP10527,ClassicCo Men's Tops Model-10527 - Grey / S,output_images/products/SKU-AP10527.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,8,2,3,SKU-AP10528,ClassicCo Men's Tops Model-10527 - Grey / M,output_images/products/SKU-AP10528.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,9,2,4,SKU-AP10529,ClassicCo Men's Tops Model-10527 - Grey / L,output_images/products/SKU-AP10529.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,10,2,5,SKU-AP10530,ClassicCo Men's Tops Model-10527 - Grey / XL,output_images/products/SKU-AP10530.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,11,3,1,SKU-AP10531,ClassicCo Men's Tops Model-10527 - Teal / S,output_images/products/SKU-AP10531.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,12,3,2,SKU-AP10532,ClassicCo Men's Tops Model-10527 - Teal / M,output_images/products/SKU-AP10532.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,13,3,3,SKU-AP10533,ClassicCo Men's Tops Model-10527 - Teal / L,output_images/products/SKU-AP10533.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,14,3,4,SKU-AP10534,ClassicCo Men's Tops Model-10527 - Teal / XL,output_images/products/SKU-AP10534.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+9,15,3,5,SKU-AP10535,ClassicCo Men's Tops Model-10527 - Mustard / S,output_images/products/SKU-AP10535.png,output_images/batch_grids/batch_00009_SKU-AP10521_grid.png,success,2026-09-29 19:53:19,
+10,1,1,1,SKU-AP10536,ClassicCo Men's Tops Model-10527 - Mustard / M,output_images/products/SKU-AP10536.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,2,1,2,SKU-AP10537,ClassicCo Men's Tops Model-10527 - Mustard / L,output_images/products/SKU-AP10537.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,3,1,3,SKU-AP10538,ClassicCo Men's Tops Model-10527 - Mustard / XL,output_images/products/SKU-AP10538.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,4,1,4,SKU-AP10539,ClassicCo Men's Tops Model-10539 - Grey / M,output_images/products/SKU-AP10539.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,5,1,5,SKU-AP10540,ClassicCo Men's Tops Model-10539 - Grey / L,output_images/products/SKU-AP10540.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,6,2,1,SKU-AP10541,ClassicCo Men's Tops Model-10539 - Grey / XL,output_images/products/SKU-AP10541.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,7,2,2,SKU-AP10542,ClassicCo Men's Tops Model-10539 - Grey / XXL,output_images/products/SKU-AP10542.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,8,2,3,SKU-AP10543,ClassicCo Men's Tops Model-10539 - Maroon / M,output_images/products/SKU-AP10543.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,9,2,4,SKU-AP10544,ClassicCo Men's Tops Model-10539 - Maroon / L,output_images/products/SKU-AP10544.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,10,2,5,SKU-AP10545,ClassicCo Men's Tops Model-10539 - Maroon / XL,output_images/products/SKU-AP10545.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,11,3,1,SKU-AP10546,ClassicCo Men's Tops Model-10539 - Maroon / XXL,output_images/products/SKU-AP10546.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,12,3,2,SKU-AP10547,ClassicCo Men's Tops Model-10539 - Mustard / M,output_images/products/SKU-AP10547.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,13,3,3,SKU-AP10548,ClassicCo Men's Tops Model-10539 - Mustard / L,output_images/products/SKU-AP10548.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,14,3,4,SKU-AP10549,ClassicCo Men's Tops Model-10539 - Mustard / XL,output_images/products/SKU-AP10549.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+10,15,3,5,SKU-AP10550,ClassicCo Men's Tops Model-10539 - Mustard / XXL,output_images/products/SKU-AP10550.png,output_images/batch_grids/batch_00010_SKU-AP10536_grid.png,success,2026-09-29 19:54:39,
+11,1,1,1,SKU-AP10551,ClassicCo Men's Tops Model-10551 - Navy / M,output_images/products/SKU-AP10551.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,2,1,2,SKU-AP10552,ClassicCo Men's Tops Model-10551 - Navy / L,output_images/products/SKU-AP10552.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,3,1,3,SKU-AP10553,ClassicCo Men's Tops Model-10551 - Navy / XL,output_images/products/SKU-AP10553.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,4,1,4,SKU-AP10554,ClassicCo Men's Tops Model-10551 - Navy / XXL,output_images/products/SKU-AP10554.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,5,1,5,SKU-AP10555,ClassicCo Men's Tops Model-10551 - Teal / M,output_images/products/SKU-AP10555.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,6,2,1,SKU-AP10556,ClassicCo Men's Tops Model-10551 - Teal / L,output_images/products/SKU-AP10556.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,7,2,2,SKU-AP10557,ClassicCo Men's Tops Model-10551 - Teal / XL,output_images/products/SKU-AP10557.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,8,2,3,SKU-AP10558,ClassicCo Men's Tops Model-10551 - Teal / XXL,output_images/products/SKU-AP10558.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,9,2,4,SKU-AP10559,ClassicCo Men's Tops Model-10551 - Mustard / M,output_images/products/SKU-AP10559.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,10,2,5,SKU-AP10560,ClassicCo Men's Tops Model-10551 - Mustard / L,output_images/products/SKU-AP10560.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,11,3,1,SKU-AP10561,ClassicCo Men's Tops Model-10551 - Mustard / XL,output_images/products/SKU-AP10561.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,12,3,2,SKU-AP10562,ClassicCo Men's Tops Model-10551 - Mustard / XXL,output_images/products/SKU-AP10562.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,13,3,3,SKU-AP10563,ClassicCo Men's Tops Model-10563 - Black / S,output_images/products/SKU-AP10563.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,14,3,4,SKU-AP10564,ClassicCo Men's Tops Model-10563 - Black / M,output_images/products/SKU-AP10564.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+11,15,3,5,SKU-AP10565,ClassicCo Men's Tops Model-10563 - Black / L,output_images/products/SKU-AP10565.png,output_images/batch_grids/batch_00011_SKU-AP10551_grid.png,success,2026-09-29 19:56:44,
+12,1,1,1,SKU-AP10566,ClassicCo Men's Tops Model-10563 - Black / XL,output_images/products/SKU-AP10566.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,2,1,2,SKU-AP10567,ClassicCo Men's Tops Model-10563 - Black / XXL,output_images/products/SKU-AP10567.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,3,1,3,SKU-AP10568,ClassicCo Men's Tops Model-10563 - Teal / S,output_images/products/SKU-AP10568.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,4,1,4,SKU-AP10569,ClassicCo Men's Tops Model-10563 - Teal / M,output_images/products/SKU-AP10569.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,5,1,5,SKU-AP10570,ClassicCo Men's Tops Model-10563 - Teal / L,output_images/products/SKU-AP10570.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,6,2,1,SKU-AP10571,ClassicCo Men's Tops Model-10563 - Teal / XL,output_images/products/SKU-AP10571.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,7,2,2,SKU-AP10572,ClassicCo Men's Tops Model-10563 - Teal / XXL,output_images/products/SKU-AP10572.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,8,2,3,SKU-AP10573,ClassicCo Men's Tops Model-10573 - Navy / S,output_images/products/SKU-AP10573.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,9,2,4,SKU-AP10574,ClassicCo Men's Tops Model-10573 - Navy / M,output_images/products/SKU-AP10574.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,10,2,5,SKU-AP10575,ClassicCo Men's Tops Model-10573 - Navy / L,output_images/products/SKU-AP10575.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,11,3,1,SKU-AP10576,ClassicCo Men's Tops Model-10573 - Navy / XL,output_images/products/SKU-AP10576.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,12,3,2,SKU-AP10577,ClassicCo Men's Tops Model-10573 - Maroon / S,output_images/products/SKU-AP10577.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,13,3,3,SKU-AP10578,ClassicCo Men's Tops Model-10573 - Maroon / M,output_images/products/SKU-AP10578.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,14,3,4,SKU-AP10579,ClassicCo Men's Tops Model-10573 - Maroon / L,output_images/products/SKU-AP10579.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+12,15,3,5,SKU-AP10580,ClassicCo Men's Tops Model-10573 - Maroon / XL,output_images/products/SKU-AP10580.png,output_images/batch_grids/batch_00012_SKU-AP10566_grid.png,success,2026-09-29 19:57:19,
+13,1,1,1,SKU-AP10581,ClassicCo Men's Tops Model-10573 - Mustard / S,output_images/products/SKU-AP10581.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,2,1,2,SKU-AP10582,ClassicCo Men's Tops Model-10573 - Mustard / M,output_images/products/SKU-AP10582.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,3,1,3,SKU-AP10583,ClassicCo Men's Tops Model-10573 - Mustard / L,output_images/products/SKU-AP10583.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,4,1,4,SKU-AP10584,ClassicCo Men's Tops Model-10573 - Mustard / XL,output_images/products/SKU-AP10584.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,5,1,5,SKU-AP10585,ActiveLife Men's Tops Model-10585 - Black / M,output_images/products/SKU-AP10585.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,6,2,1,SKU-AP10586,ActiveLife Men's Tops Model-10585 - Black / L,output_images/products/SKU-AP10586.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,7,2,2,SKU-AP10587,ActiveLife Men's Tops Model-10585 - Black / XL,output_images/products/SKU-AP10587.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,8,2,3,SKU-AP10588,ActiveLife Men's Tops Model-10585 - Black / XXL,output_images/products/SKU-AP10588.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,9,2,4,SKU-AP10589,ActiveLife Men's Tops Model-10585 - Navy / M,output_images/products/SKU-AP10589.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,10,2,5,SKU-AP10590,ActiveLife Men's Tops Model-10585 - Navy / L,output_images/products/SKU-AP10590.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,11,3,1,SKU-AP10591,ActiveLife Men's Tops Model-10585 - Navy / XL,output_images/products/SKU-AP10591.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,12,3,2,SKU-AP10592,ActiveLife Men's Tops Model-10585 - Navy / XXL,output_images/products/SKU-AP10592.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,13,3,3,SKU-AP10593,ActiveLife Men's Tops Model-10585 - Grey / M,output_images/products/SKU-AP10593.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,14,3,4,SKU-AP10594,ActiveLife Men's Tops Model-10585 - Grey / L,output_images/products/SKU-AP10594.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+13,15,3,5,SKU-AP10595,ActiveLife Men's Tops Model-10585 - Grey / XL,output_images/products/SKU-AP10595.png,output_images/batch_grids/batch_00013_SKU-AP10581_grid.png,success,2026-09-29 19:58:51,
+14,1,1,1,SKU-AP10596,ActiveLife Men's Tops Model-10585 - Grey / XXL,output_images/products/SKU-AP10596.png,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,success,2026-09-29 20:00:17,
+14,2,1,2,SKU-AP10597,ActiveLife Men's Tops Model-10597 - White / S,output_images/products/SKU-AP10597.png,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,success,2026-09-29 20:00:17,
+14,3,1,3,SKU-AP10598,ActiveLife Men's Tops Model-10597 - White / M,output_images/products/SKU-AP10598.png,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,success,2026-09-29 20:00:17,
+14,4,1,4,SKU-AP10599,ActiveLife Men's Tops Model-10597 - White / L,output_images/products/SKU-AP10599.png,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,success,2026-09-29 20:00:17,
+14,5,1,5,SKU-AP10600,ActiveLife Men's Tops Model-10597 - White / XL,output_images/products/SKU-AP10600.png,output_images/batch_grids/batch_00014_SKU-AP10596_grid.png,success,2026-09-29 20:00:17,
