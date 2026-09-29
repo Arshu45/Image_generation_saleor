@@ -746,28 +746,24 @@ def run_workflow(
     profile_dir.mkdir(parents=True, exist_ok=True)
 
     with sync_playwright() as p:
+        is_cdp_connected = False
         if connect_existing:
-            logging.info("Connecting to existing Chrome instance at %s ...", cdp_url)
+            logging.info("Attempting to connect to existing Chrome instance at %s ...", cdp_url)
             try:
                 browser = p.chromium.connect_over_cdp(cdp_url)
+                context = browser.contexts[0] if browser.contexts else browser.new_context()
+                page = context.pages[0] if context.pages else context.new_page()
+                is_cdp_connected = True
+                logging.info("Successfully connected to existing Chrome via CDP.")
             except Exception as exc:
-                raise RuntimeError(
-                    f"\n{'='*70}\n"
-                    f"COULD NOT CONNECT TO CHROME AT {cdp_url}\n"
-                    f"{'='*70}\n"
-                    f"To use --connect-existing, Chrome must be running with remote debugging enabled.\n\n"
-                    f"HOW TO FIX:\n"
-                    f"Option A (Recommended): Simply run the script WITHOUT --connect-existing:\n"
-                    f"    python generate_sku_flow_images.py --start-batch 1 --end-batch 2\n\n"
-                    f"Option B: First launch Chrome with debugging port 9222 in terminal:\n"
-                    f"    google-chrome --remote-debugging-port=9222 &\n"
-                    f"Then run:\n"
-                    f"    python generate_sku_flow_images.py --connect-existing\n"
-                    f"{'='*70}"
-                ) from None
-            context = browser.contexts[0] if browser.contexts else browser.new_context()
-            page = context.pages[0] if context.pages else context.new_page()
-        else:
+                logging.warning(
+                    "Could not connect to existing Chrome at %s (%s).\n"
+                    "Note: To use CDP, Chrome must be running with: google-chrome --remote-debugging-port=9222 &\n"
+                    "Automatically falling back to launching Chromium with persistent profile...",
+                    cdp_url, exc,
+                )
+
+        if not is_cdp_connected:
             logging.info("Launching Chromium with persistent profile: %s", profile_dir)
             context = p.chromium.launch_persistent_context(
                 user_data_dir=str(profile_dir),
@@ -888,7 +884,7 @@ def run_workflow(
                 time.sleep(slow_mode)
 
         logging.info("\nAll specified batches processed.")
-        if not connect_existing:
+        if not is_cdp_connected:
             context.close()
 
 
