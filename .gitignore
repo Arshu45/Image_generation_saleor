@@ -21,6 +21,7 @@ venv.bak/
 # Prevents Google/OpenAI session cookies and login tokens from being committed
 # ===========================================================================
 google_flow_profile/
+chrome_flow_profile/
 chatgpt_browser_profile/
 .playwright/
 playwright-report/
