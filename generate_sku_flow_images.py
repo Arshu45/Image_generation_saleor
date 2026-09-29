@@ -748,7 +748,6 @@ def run_workflow(
     with sync_playwright() as p:
         if connect_existing:
             logging.info("Connecting to existing Chrome instance at %s ...", cdp_url)
-            browser = p.chromium.connect_over_cdp(cdp_url)
             try:
                 browser = p.chromium.connect_over_cdp(cdp_url)
             except Exception as exc:
