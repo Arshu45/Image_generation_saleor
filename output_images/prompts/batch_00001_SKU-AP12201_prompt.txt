@@ -1,0 +1,29 @@
+Create a single high-resolution photorealistic ecommerce product catalog contact sheet.
+The image must be composed of a strict 3 rows by 5 columns grid (15 equal rectangular cells total).
+
+STRICT VISUAL STYLE & GUIDELINES:
+- Photorealistic professional commercial studio product photography.
+- Each cell must have a clean, seamless, pure white background with soft realistic contact shadow underneath.
+- Exactly ONE product per cell, centered, perfectly in focus, full product visible.
+- Consistent 3/4 front studio angle and uniform scale across all cells.
+- Thin, subtle light-grey divider lines between all cells so each product boundary is distinct.
+- DO NOT include people, models, hands, lifestyle scenery, props, boxes, price tags, text overlays, or watermarks.
+
+PRODUCTS IN EXACT CELL POSITIONS (Row-by-Row, Left-to-Right):
+Cell 01 (Row 1, Col 1): UrbanWear Women's Tops Model-12192 - Mustard / S
+Cell 02 (Row 1, Col 2): UrbanWear Women's Tops Model-12192 - Mustard / M
+Cell 03 (Row 1, Col 3): UrbanWear Women's Tops Model-12192 - Mustard / L
+Cell 04 (Row 1, Col 4): UrbanWear Women's Tops Model-12204 - Olive / XS
+Cell 05 (Row 1, Col 5): UrbanWear Women's Tops Model-12204 - Olive / S
+Cell 06 (Row 2, Col 1): UrbanWear Women's Tops Model-12204 - Olive / M
+Cell 07 (Row 2, Col 2): UrbanWear Women's Tops Model-12204 - Olive / L
+Cell 08 (Row 2, Col 3): UrbanWear Women's Tops Model-12204 - Olive / XL
+Cell 09 (Row 2, Col 4): UrbanWear Women's Tops Model-12204 - Maroon / XS
+Cell 10 (Row 2, Col 5): UrbanWear Women's Tops Model-12204 - Maroon / S
+Cell 11 (Row 3, Col 1): UrbanWear Women's Tops Model-12204 - Maroon / M
+Cell 12 (Row 3, Col 2): UrbanWear Women's Tops Model-12204 - Maroon / L
+Cell 13 (Row 3, Col 3): UrbanWear Women's Tops Model-12204 - Maroon / XL
+Cell 14 (Row 3, Col 4): UrbanWear Women's Tops Model-12214 - Maroon / XS
+Cell 15 (Row 3, Col 5): UrbanWear Women's Tops Model-12214 - Maroon / S
+
+Generate the image now showing all 15 items arranged cleanly in their exact cell positions.

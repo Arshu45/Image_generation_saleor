@@ -1,0 +1,29 @@
+Create a single high-resolution photorealistic ecommerce product catalog contact sheet.
+The image must be composed of a strict 3 rows by 5 columns grid (15 equal rectangular cells total).
+
+STRICT VISUAL STYLE & GUIDELINES:
+- Photorealistic professional commercial studio product photography.
+- Each cell must have a clean, seamless, pure white background with soft realistic contact shadow underneath.
+- Exactly ONE product per cell, centered, perfectly in focus, full product visible.
+- Consistent 3/4 front studio angle and uniform scale across all cells.
+- Thin, subtle light-grey divider lines between all cells so each product boundary is distinct.
+- DO NOT include people, models, hands, lifestyle scenery, props, boxes, price tags, text overlays, or watermarks.
+
+PRODUCTS IN EXACT CELL POSITIONS (Row-by-Row, Left-to-Right):
+Cell 01 (Row 1, Col 1): ActiveLife Men's Tops Model-11791 - White / M
+Cell 02 (Row 1, Col 2): ActiveLife Men's Tops Model-11791 - White / L
+Cell 03 (Row 1, Col 3): ActiveLife Men's Tops Model-11791 - White / XL
+Cell 04 (Row 1, Col 4): ActiveLife Men's Tops Model-11791 - Navy / S
+Cell 05 (Row 1, Col 5): ActiveLife Men's Tops Model-11791 - Navy / M
+Cell 06 (Row 2, Col 1): [Leave completely empty pure white]
+Cell 07 (Row 2, Col 2): [Leave completely empty pure white]
+Cell 08 (Row 2, Col 3): [Leave completely empty pure white]
+Cell 09 (Row 2, Col 4): [Leave completely empty pure white]
+Cell 10 (Row 2, Col 5): [Leave completely empty pure white]
+Cell 11 (Row 3, Col 1): [Leave completely empty pure white]
+Cell 12 (Row 3, Col 2): [Leave completely empty pure white]
+Cell 13 (Row 3, Col 3): [Leave completely empty pure white]
+Cell 14 (Row 3, Col 4): [Leave completely empty pure white]
+Cell 15 (Row 3, Col 5): [Leave completely empty pure white]
+
+Generate the image now showing all 5 items arranged cleanly in their exact cell positions.
